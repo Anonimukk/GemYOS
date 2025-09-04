@@ -1,0 +1,5 @@
+{
+  "name": "GemYOS",
+  "description": "Um simulador de sistema operacional web, GemYOS, com um tema adaptativo, aplicativos funcionais inspirados no Google e uma IA Gemini integrada para controle e conversação.",
+  "requestFramePermissions": []
+}
